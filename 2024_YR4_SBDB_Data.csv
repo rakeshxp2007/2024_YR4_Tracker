@@ -12,3 +12,58 @@
 8,1460,per,d,sidereal orbital period,period,0.031
 9,0.247,n,deg/d,mean motion,n,5.2e-06
 10,4.18,ad,au,aphelion distance,Q,5.9e-05
+0,0.662,e,e,eccentricity,,3.6e-06
+1,2.52,a,a,semi-major axis,au,2.5e-05
+2,0.851,q,q,perihelion distance,au,5.3e-07
+3,3.41,i,i,inclination; angle with respect to x-y ecliptic plane,deg,1.3e-05
+4,271,om,node,longitude of the ascending node,deg,9.2e-06
+5,134,w,peri,argument of perihelion,deg,1.6e-05
+6,40.4,ma,M,mean anomaly,deg,0.00062
+7,2460636.918,tp,tp,time of perihelion passage,TDB,4e-05
+8,1460,per,period,sidereal orbital period,d,0.022
+9,0.247,n,n,mean motion,deg/d,3.7e-06
+10,4.18,ad,Q,aphelion distance,au,4.2e-05
+0,e,eccentricity,,e,0.662,3.6e-06
+1,a,semi-major axis,au,a,2.52,2.5e-05
+2,q,perihelion distance,au,q,0.851,5.3e-07
+3,i,inclination; angle with respect to x-y ecliptic plane,deg,i,3.41,1.3e-05
+4,node,longitude of the ascending node,deg,om,271,9.2e-06
+5,peri,argument of perihelion,deg,w,134,1.6e-05
+6,M,mean anomaly,deg,ma,40.4,0.00062
+7,tp,time of perihelion passage,TDB,tp,2460636.918,4e-05
+8,period,sidereal orbital period,d,per,1460,0.022
+9,n,mean motion,deg/d,n,0.247,3.7e-06
+10,Q,aphelion distance,au,ad,4.18,4.2e-05
+0,3.6e-06,e,0.662,eccentricity,,e
+1,2.5e-05,a,2.52,semi-major axis,au,a
+2,5.3e-07,q,0.851,perihelion distance,au,q
+3,1.3e-05,i,3.41,inclination; angle with respect to x-y ecliptic plane,deg,i
+4,9.2e-06,om,271,longitude of the ascending node,deg,node
+5,1.6e-05,w,134,argument of perihelion,deg,peri
+6,0.00062,ma,40.4,mean anomaly,deg,M
+7,4e-05,tp,2460636.918,time of perihelion passage,TDB,tp
+8,0.022,per,1460,sidereal orbital period,d,period
+9,3.7e-06,n,0.247,mean motion,deg/d,n
+10,4.2e-05,ad,4.18,aphelion distance,au,Q
+0,3.6e-06,e,,eccentricity,0.662,e
+1,2.5e-05,a,au,semi-major axis,2.52,a
+2,5.3e-07,q,au,perihelion distance,0.851,q
+3,1.3e-05,i,deg,inclination; angle with respect to x-y ecliptic plane,3.41,i
+4,9.2e-06,node,deg,longitude of the ascending node,271,om
+5,1.6e-05,peri,deg,argument of perihelion,134,w
+6,0.00062,M,deg,mean anomaly,40.4,ma
+7,4e-05,tp,TDB,time of perihelion passage,2460636.918,tp
+8,0.022,period,d,sidereal orbital period,1460,per
+9,3.7e-06,n,deg/d,mean motion,0.247,n
+10,4.2e-05,Q,au,aphelion distance,4.18,ad
+0,,3.6e-06,eccentricity,e,0.662,e
+1,au,2.5e-05,semi-major axis,a,2.52,a
+2,au,5.3e-07,perihelion distance,q,0.851,q
+3,deg,1.3e-05,inclination; angle with respect to x-y ecliptic plane,i,3.41,i
+4,deg,9.2e-06,longitude of the ascending node,node,271,om
+5,deg,1.6e-05,argument of perihelion,peri,134,w
+6,deg,0.00062,mean anomaly,M,40.4,ma
+7,TDB,4e-05,time of perihelion passage,tp,2460636.918,tp
+8,d,0.022,sidereal orbital period,period,1460,per
+9,deg/d,3.7e-06,mean motion,n,0.247,n
+10,au,4.2e-05,aphelion distance,Q,4.18,ad
